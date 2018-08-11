@@ -15,7 +15,7 @@ public class TestScript2 {
 
   @AfterTest
   public void afterTest() {
-	  System.out.println("Before Test-TestScript2");
+	  System.out.println("Before Test-TestScript2s");
   }
 
 }
