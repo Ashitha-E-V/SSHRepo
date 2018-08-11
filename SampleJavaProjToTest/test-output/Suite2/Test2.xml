@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="USBLRASHIEV3" name="multipleTest.TestScript3" tests="1" failures="0" timestamp="4 Aug 2018 23:27:04 GMT" time="0.051" errors="0">
+  <testcase name="f" time="0.01" classname="multipleTest.TestScript3"/>
+</testsuite>

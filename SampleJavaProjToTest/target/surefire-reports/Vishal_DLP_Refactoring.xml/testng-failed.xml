@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" verbose="0" name="Failed suite [Vishal_DLP_Refactoring.xml]" parallel="methods">
+  <test name="Vishal_DLP_Refactoring.xml_DLR_Refactoring.xml(failed)" parallel="methods" preserve-order="false">
+    <classes>
+      <class name="sample.TestScript2">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class>
+      <class name="example.TestScript1">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
