@@ -10,7 +10,7 @@ public class TestScript3 {
   }
   @BeforeTest
   public void beforeTest() {
-	  System.out.println("Before Test-TestScript3");
+	  System.out.println("bsBefore Test-TestScript3");
   }
 
   @AfterTest
